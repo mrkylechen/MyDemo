@@ -1,0 +1,4 @@
+class demojava(){
+	main(){
+	}
+}
